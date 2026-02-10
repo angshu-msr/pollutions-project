@@ -1,0 +1,1 @@
+alert("It's Tatai's first project after learning HTML");
